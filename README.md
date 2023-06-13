@@ -1,2 +1,3 @@
 # Internat-Economy-Bot
-bot economy du serveur .gg/internat
+Ceci est le bot coins de internat officiel !
+By Morphée#0667
